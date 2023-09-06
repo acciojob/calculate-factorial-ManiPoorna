@@ -5,4 +5,4 @@ for (let i = 1; i <= number; i++) {
 	factorial*=i;
 }
 
-alert(`The factorial of 5 is ${factorial}`)
+alert(`The factorial of ${number} is ${factorial}`)
